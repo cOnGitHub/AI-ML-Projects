@@ -37,10 +37,8 @@ Data Set: -
 Literature: -
 
 Models:
-
-AWS: AWS LinearLearner
-
-scikit-learn: Adaboost, MLP Classifier, K Nearest Neighbors, Decision Tree
+- From AWS: AWS LinearLearner
+- From scikit-learn: Adaboost, MLP Classifier, K Nearest Neighbors, Decision Tree
 
 Technologies:
 - AWS SageMaker
