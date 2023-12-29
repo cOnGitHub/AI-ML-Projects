@@ -14,6 +14,6 @@ Step 4: (Optional) Improve the HMM tagger
 
 Technqiues:
 - Numpy
-- pomgranate
+- Pomegranate
 - Most Frequent Class Tagger
 - HMM (Hidden Markov Model) Tagger
