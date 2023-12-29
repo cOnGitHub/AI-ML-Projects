@@ -1,10 +1,10 @@
-Project: Plagiarismus Detection (Notebook 2: Feature Engineering, Notebook 3: Model Training)
+Project: Plagiarism Detection (Notebook 2: Feature Engineering, Notebook 3: Model Training)
 
 Course: Udacity Nanodegree Machine Learning
 
 Project submission: 14.12.2020
 
-## Jupyter Notebook 2 Plagiarismus Detection, Feature Engineering
+## Jupyter Notebook 2 Plagiarism Detection, Feature Engineering
 Notebook Outline:
 
 - Clean and pre-process the data.
@@ -24,7 +24,7 @@ Technologies:
 - Correlation Matrix
 
 
-## Jupyter Notebook 3 Plagiarismus Detection Model
+## Jupyter Notebook 3 Plagiarism Detection Model
 Outline:
 
 - Upload your data to S3.
