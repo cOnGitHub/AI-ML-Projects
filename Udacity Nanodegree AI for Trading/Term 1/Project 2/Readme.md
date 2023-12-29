@@ -2,7 +2,7 @@ Project: Breakout Strategy
 
 Course: Udacity Nanodegree AI for Trading
 
-Project Submission: 21.04.2019
+Project Submission: 09.03.2019
 
 Outline:
 
