@@ -2,7 +2,7 @@ Project: Analyzing Stock Sentiment from Twits
 
 Course: Udacity Nanodegree AI for Trading
 
-Project submission: 15.08.2019
+Project submission: 14.08.2019
 
 Outline:
 
