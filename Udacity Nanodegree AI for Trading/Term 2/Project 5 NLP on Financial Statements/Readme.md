@@ -2,7 +2,7 @@ Project: NLP on Financial Statements
 
 Course: Udacity Nanodegree AI for Trading
 
-Project Submission: 13.08.2019
+Project Submission: 10.08.2019
 
 Outline:
 
