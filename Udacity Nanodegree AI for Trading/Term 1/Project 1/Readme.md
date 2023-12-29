@@ -2,7 +2,7 @@ Project: Trading with Momentum
 
 Course: Udacity Nanodegree AI for Trading
 
-Project Submission: 21.04.2019
+Project Submission: 03.02.2019
 
 Outline:
 
