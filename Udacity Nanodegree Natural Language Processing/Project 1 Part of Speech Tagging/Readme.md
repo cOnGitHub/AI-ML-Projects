@@ -17,5 +17,3 @@ Technqiues:
 - pomgranate
 - Most Frequent Class Tagger
 - HMM (Hidden Markov Model) Tagger
-
-- 
