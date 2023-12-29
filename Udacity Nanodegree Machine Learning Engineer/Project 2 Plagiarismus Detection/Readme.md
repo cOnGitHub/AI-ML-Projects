@@ -17,16 +17,11 @@ Data Set: Data Set slightly modified from Clough, P. and Stevenson, M. Developin
 Literature: see Data Set
 
 Technologies:
-
-Pandas
-
-Numpy
-
-n-grams
-
-Longest Common Subsequence (LCS)
-
-Correlation Matrix
+- Pandas
+- Numpy
+- n-grams
+- Longest Common Subsequence (LCS)
+- Correlation Matrix
 
 
 ## Jupyter Notebook 3 Plagiarismus Detection Model
@@ -48,10 +43,8 @@ AWS: AWS LinearLearner
 scikit-learn: Adaboost, MLP Classifier, K Nearest Neighbors, Decision Tree
 
 Technologies:
-
-AWS SageMaker
-
-scikit-learn
+- AWS SageMaker
+- scikit-learn
 
 
 
