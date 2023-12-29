@@ -1,5 +1,7 @@
 Project: Deploying a Sentiment Analysis Model
+
 Course: Udacity Nanodegree Machine Learning Engineer
+
 Project submission: 05.07.2020
 
 Project Outline:
@@ -16,16 +18,15 @@ Data Set: IMDb Dataset
 Literature: Maas, Andrew L., et al. Learning Word Vectors for Sentiment Analysis. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies. Association for Computational Linguistics, 2011
 
 Technologies used:
-Jupyter Notebook
-AWS SageMaker
-scikit-learn
-PyTorch
-Model: LSTM (RNN)
-Cuda, CPU
-Optimizer: Adam
-Loss function: BCELoss
-NLTK
-BeautifulSoup
+- Jupyter Notebook
+- AWS SageMaker
+- scikit-learn
+- PyTorch
+- Model: LSTM (RNN)
+- Optimizer: Adam
+- Loss function: BCELoss
+- NLTK
+- BeautifulSoup
 
 
 
