@@ -2,7 +2,7 @@ Project: Combine Signals for Enhanced Alpha
 
 Course: Udacity Nanodegree AI for Trading
 
-Project Submission: 16.08.2019
+Project Submission: 15.08.2019
 
 Outline:
 
