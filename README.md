@@ -1,3 +1,3 @@
-# projects
+# Projects
 Repository for projects that I have completed.
-Projects are not runnable and for information purposes only.
+Projects may not be executable and for information purposes only.
